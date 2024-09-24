@@ -26,8 +26,8 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="Repeatpsw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="Repeatpsw" id="Repeatpsw" required>
+    <label for="Repeatpsw"><b>RepeatPassword</b></label>
+    <input type="Repeatpassword" placeholder="Enter RepeatPassword" name="Repeatpsw" id="Repeatpsw" required>
     <br>
 
 
