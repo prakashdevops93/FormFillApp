@@ -30,8 +30,8 @@
     <input type="Repeatpassword" placeholder="Enter RepeatPassword" name="Repeatpsw" id="Repeatpsw" required>
     <br>
 
-    <label for="email"><b>email_id</b></label>
-    <input type="email" placeholder="enter mail_Id" name="email" id="email" required>
+    <label for="email id"><b>email_id</b></label>
+    <input type="email id" placeholder="enter mail_Id" name="email id" id="email id" required>
     <br>
 
 
