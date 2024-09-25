@@ -30,6 +30,10 @@
     <input type="Repeatpassword" placeholder="Enter RepeatPassword" name="Repeatpsw" id="Repeatpsw" required>
     <br>
 
+    <label for="email"><b>email_id</b></label>
+    <input type="email" placeholder="enter mail_Id" name="email" id="email" required>
+    <br>
+
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
