@@ -24,6 +24,11 @@
     <label for="spouse"><b>spouse_name</b></label>
     <input type="test" placeholder="spouse_name" name="spouse" id="spouse" required>
     <br>
+
+    <label for="daughter"><b>daughter_name</b></label>
+    <input type="test" placeholder="daughter_name" name="daughter" id="daughter" required>
+    <br>
+
     
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
