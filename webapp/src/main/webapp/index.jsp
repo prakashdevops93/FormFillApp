@@ -29,7 +29,15 @@
     <input type="test" placeholder="daughter_name" name="daughter" id="daughter" required>
     <br>
 
+    <label for="son"><b>son_name</b></label>
+    <input type="test" placeholder="son_name" name="son" id="son" required>
+    <br>
     
+    <label for="hometown"><b>town_name</b></label>
+    <input type="test" placeholder="town_name" name="hometown" id="homwtown" required>
+    <br>
+
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
